@@ -62,3 +62,22 @@
 .spn{
   display:inherit;
 }
+#bm{
+  border:5px solid blanchedalmond;
+  margin:20px;
+  border-radius: 6px;
+  left:12px;
+  right: 12px;
+  padding:12px;
+  margin-top:24px ;
+  margin-bottom: 24px;
+  background-position: relative;
+  background-color: red;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  -webkit-text-fill-color: yellow;
+}
+#bm:hover{
+ background-color: transparent;
+
+}
