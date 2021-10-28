@@ -25,3 +25,40 @@
   visibility: inherit;
   font-family: 'Times New Roman', Times, serif;
 }
+#visibility{
+  display:block;
+  top:20px;
+  left: 20px;
+  right: 20px;
+  bottom: 20px;
+  padding: 20px;
+  border: 3px solid green;
+  border-radius: 20px;
+  visibility: visible;
+}
+.txt{
+  padding: 15px;
+  border-radius: 20px;
+  border:3px solid blueviolet
+}
+#visibility:hover{
+  visibility: inherit;
+}
+#position{
+  position: -webkit-sticky;
+  display:block;
+  top:20px;
+  left: 20px;
+  right: 20px;
+  bottom: 20px;
+  padding: 20px;
+  border: 3px solid green;
+  border-radius: 20px;
+  visibility: visible;
+}
+#position{
+  position: sticky;
+}
+.spn{
+  display:inherit;
+}
